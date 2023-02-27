@@ -1,0 +1,1 @@
+# FFC-FPC_Adapter_50-pin
