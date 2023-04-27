@@ -4,7 +4,7 @@ The FFC/FPC Adapter Board is valuable for terminating displays and supporting bo
 
 The FFC/FPC Adapter Board is an essential tool for anyone working with displays or board-to-board connections. The adapter board provides a secure and stable connection with its surface mount connector, slide lock, and reliable bottom contact design. Whether you're a hobbyist or a professional, the FFC/FPC Adapter Board is a must-have tool for your electronics toolkit.
 
-![image](https://user-images.githubusercontent.com/129948335/234810740-5b87ddb4-50ce-491c-a33d-4f586d29d125.png)
+<img src="https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/FFC-FPC-Adapter_banner.png" />
 
 ### Features:
   - Two variants available: 40 pins and 50 pins
@@ -14,10 +14,11 @@ The FFC/FPC Adapter Board is an essential tool for anyone working with displays 
   - Bottom contact design for reliable connection
 
 ### Resources:
-  - [Schematic]()
-  - [Product 3D]()
-  - [Product Dimension]()
-  - [C2986759 FPC-40P Datasheet]()
+  - [Schematic](https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/SCH.pdf)
+  - [Product Dimension](https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/DIM.pdf)
+  - [Product 3D](https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/3D%20PCB.pdf)
+  - [Product Step File](https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/STEP%20%20FPC%2050P%20BREAKOUT.step)
+  - [FPC-50P Datasheet](https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/AFC07-S50ECC-00.pdf)
 
 ### Related Product:
   <img src="https://cdn.shopify.com/s/files/1/1217/2104/products/IMG_7985.png?v=1677503121&width=300"/>
