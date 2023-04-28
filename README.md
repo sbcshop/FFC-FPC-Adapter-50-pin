@@ -18,7 +18,7 @@ The FFC/FPC Adapter Board is an essential tool for anyone working with displays 
   - [Product Dimension](https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/DIM.pdf)
   - [Product 3D](https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/3D%20PCB.pdf)
   - [Product Step File](https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/STEP%20%20FPC%2050P%20BREAKOUT.step)
-  - [FPC-50P Datasheet](https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/AFC07-S50ECC-00.pdf)
+  - [FPC-50P Datasheet](https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/FPC_50pin_datasheet.pdf)
 
 ### Related Product:
   <img src="https://cdn.shopify.com/s/files/1/1217/2104/products/IMG_7985.png?v=1677503121&width=300"/>
